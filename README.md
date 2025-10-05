@@ -59,8 +59,5 @@ The dataset is inspired by Blinkit’s retail and sales data, including:
 
 ## 📸 Dashboard Preview
 
-> Replace this section with your actual dashboard image:  
-> `Blinkit_Dashboard.png`
-
 ```markdown
-![Blinkit Dashboard Preview](Blinkit_Dashboard.png)
+ [Blinkit Dashboard Preview](Snapshot of the dashboard.png)
