@@ -21,12 +21,12 @@ Provides a quick overview of average ratings, fat content, and product
 
 ⚙ Tech Stack
 
-Tool	Purpose
+🧠 Tool	                               🔍 Purpose
 
-Power BI Desktop	Data modeling, visualization & dashboard creation
-Power Query	Data transformation & cleaning
-DAX (Data Analysis Expressions)	Calculated measures and KPIs
-MS Excel / CSV	Data source for importing sales data
+🟨 Power BI Desktop:-	                 For designing and developing interactive dashboards
+🧩 Power Query Editor:-	               Used for cleaning, transforming, and loading data
+📐 DAX (Data Analysis Expressions):-	 For creating calculated columns and measures
+📊 Microsoft Excel / CSV:-             Data source containing Blinkit retail sales data
 
 📊 Data Source
 
@@ -40,15 +40,17 @@ Sales performance (total & average sales, number of items sold)
 
 ✨ Key Features & Highlights
 
-✅ Comprehensive Sales Overview – Total, average, and category-wise sales insights
-✅ Outlet Performance Dashboard – Analyze sales across size, type, and location
-✅ Product Category Analysis – Discover top-selling and underperforming item types
-✅ Customer Preference Tracking – Insights into ratings and fat content trends
-✅ Interactive Filters – Explore data by outlet tier, item type, and size dynamically
-✅ Yearly Trend Visualization – Track outlet establishment growth over time
+Feature	Description
+
+💰 Total & Average Sales Overview:-	 Bar chart displaying overall and average sales across outlets and product types.
+🏬 Outlet Performance Analysis:- Clustered bar chart comparing total sales by outlet type and size.
+🏙 Location Tier Insights:- Pie/Donut chart showing contribution of Tier 1, Tier 2, and Tier 3 cities to total sales.
+🥫 Item Category Breakdown:-	Bar chart highlighting top-selling item categories like Fruits, Snacks, Dairy, etc.
+🧈 Fat Content Impact:-	Comparative chart showing sales difference between ‘Low Fat’ and ‘Regular’ items.
+📆 Outlet Establishment Trends:-	Line graph depicting number of outlets established over different years.
+🎛 Interactive Filters Panel:-	Dynamic slicers to filter data by Outlet Size, Type.
 
 📸 Dashboard Preview
-
 
 (Replace with your actual exported dashboard image — name it Blinkit_Dashboard.png and store it in your repo folder.)
 
