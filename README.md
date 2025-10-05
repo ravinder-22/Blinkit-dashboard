@@ -60,4 +60,5 @@ The dataset is inspired by Blinkit’s retail and sales data, including:
 ## 📸 Dashboard Preview
 
 ```markdown
- [Blinkit Dashboard Preview](Snapshot of the dashboard.png)
+ [Blinkit Dashboard Preview]<img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/user-attachments/assets/028ab8d1-9ca7-4e8b-b6d1-b9d4541cbeda" />
+
