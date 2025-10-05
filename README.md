@@ -52,7 +52,7 @@ Feature	Description
 
 📸 Dashboard Preview
 
-(Replace with your actual exported dashboard image — name it Blinkit_Dashboard.png and store it in your repo folder.)
+https://github.com/ravinder-22/Blinkit-dashboard/blob/main/Snapshot%20of%20the%20dashboard.png
 
 🧠 Insights Derived
 
