@@ -57,6 +57,15 @@ The dataset is inspired by Blinkit’s retail and sales data, including:
 
 ---
 
+## 🧠 Insights Derived
+
+- 🏪 **Supermarket Type 1** outlets achieved the highest total sales  
+- 📏 **Medium-sized outlets** performed better in terms of average sales  
+- 🌆 **Tier 3 cities** contributed significantly to overall sales  
+- 🧈 **Low-fat items** were more frequently purchased than regular ones
+
+---
+
 ## 📸 Dashboard Preview
 
 <img width="1315" height="736" alt="Snapshot of the dashboard" src="https://github.com/user-attachments/assets/14bf2509-14a0-420a-9221-8b881eefc07e" />
